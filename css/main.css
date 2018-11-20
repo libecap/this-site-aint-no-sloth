@@ -1,11 +1,23 @@
 html {
   font-family: Georgia, serif;
 }
+
+header {
+  background-color: #fff;
+}
+
 section {
   display: block;
+  background-color: #fff;
 }
 
 h1 {
   font-family: Verdana, sans-serif;
   color: #fff;
+}
+
+body {
+  background-image: url("../images/sloth-bg.svg");
+  background-color: #bea586;
+  background-size: 48px;
 }
