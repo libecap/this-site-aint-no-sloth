@@ -1,0 +1,11 @@
+html {
+  font-family: Georgia, serif;
+}
+section {
+  display: block;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  color: #fff;
+}
