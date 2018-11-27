@@ -28,6 +28,7 @@ h1 {
 
 body {
   background-image: url("../images/sloth-bg.svg");
+  background-repeat: repeat;
   background-color: #bea586;
   background-size: 48px;
 }
